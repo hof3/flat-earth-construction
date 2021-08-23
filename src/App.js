@@ -11,10 +11,10 @@ function App() {
         <Navbar></Navbar>
         <div className="content">
           <Switch>
-            <Route exact path={process.env.PUBLIC_URL + '/'}>
+            <Route exact path={'/flat-earth-construction'}>
               <Home/>
             </Route>
-            <Route exact path={process.env.PUBLIC_URL + '/newconstruction'}>
+            <Route exact path={'/flat-earth-construction/newconstruction'}>
               <NewConstruction/>
             </Route>
           </Switch>

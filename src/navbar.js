@@ -5,8 +5,8 @@ const Navbar = () => {
         <nav className="navbar">
             <h1>Flat Earth Construction</h1>
             <div className="links">
-                <Link to="/">Home</Link>
-                <Link to="/newconstruction" style={{
+                <Link to="/flat-earth-construction">Home</Link>
+                <Link to="/flat-earth-construction/newconstruction" style={{
                     color: "white",
                     backgroundColor: '#f1356d',
                     borderRadius: '8px'
