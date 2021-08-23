@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/flat-earth-construction/static/css/main.3f67800e.chunk.css",
-    "main.js": "/flat-earth-construction/static/js/main.b1423ad5.chunk.js",
-    "main.js.map": "/flat-earth-construction/static/js/main.b1423ad5.chunk.js.map",
+    "main.js": "/flat-earth-construction/static/js/main.2504647f.chunk.js",
+    "main.js.map": "/flat-earth-construction/static/js/main.2504647f.chunk.js.map",
     "runtime-main.js": "/flat-earth-construction/static/js/runtime-main.56066238.js",
     "runtime-main.js.map": "/flat-earth-construction/static/js/runtime-main.56066238.js.map",
     "static/js/2.4db61c9e.chunk.js": "/flat-earth-construction/static/js/2.4db61c9e.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.56066238.js",
     "static/js/2.4db61c9e.chunk.js",
     "static/css/main.3f67800e.chunk.css",
-    "static/js/main.b1423ad5.chunk.js"
+    "static/js/main.2504647f.chunk.js"
   ]
 }
